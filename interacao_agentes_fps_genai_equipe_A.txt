@@ -1,0 +1,3 @@
+Ordens do Líder (Equipe A): Reforçar defesas
+- Estratégia de ataque gerada para Equipe A: Capturar o ponto rapidamente contra 5 inimigos no Ponto Alpha.
+- Estratégia de defesa gerada para Equipe A: Fortificar ponto estratégico para defender Base de Equipe A contra 4 inimigos.

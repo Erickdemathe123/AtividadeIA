@@ -1,0 +1,3 @@
+Ordens do Líder (Equipe B): Focar no controle de território
+- Estratégia de ataque gerada para Equipe B: Flanquear inimigos contra 5 inimigos no Ponto Beta.
+- Estratégia de defesa gerada para Equipe B: Fortificar ponto estratégico para defender Base de Equipe B contra 4 inimigos.
